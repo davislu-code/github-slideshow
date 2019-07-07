@@ -2,5 +2,5 @@
 layout: slide
 title: "Welcome to our second slide!"
 ---
-Your text
+Me and the boys when we roll up to the crag.
 Use the left arrow to go back!
